@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AlarmProject</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="whale_array">
+        <item>Pick a sound</item>
+        <item>banana_song</item>
+        <item>darth_vader</item>
+        <item>iphone_6_original</item>
+        <item>very_super_tone_ever</item>
+    </string-array>
+</resources>
